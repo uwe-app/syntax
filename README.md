@@ -1,3 +1,3 @@
 ## Syntax
 
-This repository contains the compiled binary of the language definitions for syntax highlighting.
+This repository contains the compiled language definitions for syntax highlighting.
