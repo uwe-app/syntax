@@ -1,0 +1,6 @@
+name = "std::syntax"
+version = "1.0.0"
+description = "Syntax highlighting language definitions and stylesheets"
+type = "library"
+keywords = ["Syntax", "Highlight"]
+license = ["MIT", "Apache-2.0"]
