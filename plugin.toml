@@ -1,5 +1,5 @@
 name = "std::syntax"
-version = "1.0.0"
+version = "1.0.1"
 description = "Syntax highlighting language definitions and stylesheets"
 type = "library"
 keywords = ["Syntax", "Highlight"]

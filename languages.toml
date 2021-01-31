@@ -1,0 +1,307 @@
+[[language]]
+name = "ASP"
+file_extensions = ["asa"]
+
+[[language]]
+name = "ActionScript"
+file_extensions = ["as"]
+
+[[language]]
+name = "AppleScript"
+file_extensions = ["applescript", "script editor"]
+
+[[language]]
+name = "Batch File"
+file_extensions = ["bat", "cmd"]
+
+[[language]]
+name = "BibTeX"
+file_extensions = ["bib"]
+
+[[language]]
+name = "Bourne Again Shell (bash)"
+file_extensions = ["sh", "bash", "zsh", "fish", ".bash_aliases", ".bash_completions", ".bash_functions", ".bash_login", ".bash_logout", ".bash_profile", ".bash_variables", ".bashrc", ".profile", ".textmate_init"]
+
+[[language]]
+name = "C"
+file_extensions = ["c", "h"]
+
+[[language]]
+name = "C#"
+file_extensions = ["cs", "csx"]
+
+[[language]]
+name = "C++"
+file_extensions = ["cpp", "cc", "cp", "cxx", "c++", "C", "h", "hh", "hpp", "hxx", "h++", "inl", "ipp"]
+
+[[language]]
+name = "CSS"
+file_extensions = ["css", "css.erb", "css.liquid"]
+
+[[language]]
+name = "Cargo Build Results"
+file_extensions = []
+
+[[language]]
+name = "Clojure"
+file_extensions = ["clj"]
+
+[[language]]
+name = "D"
+file_extensions = ["d", "di"]
+
+[[language]]
+name = "Diff"
+file_extensions = ["diff", "patch"]
+
+[[language]]
+name = "Erlang"
+file_extensions = ["erl", "hrl", "Emakefile", "emakefile"]
+
+[[language]]
+name = "Go"
+file_extensions = ["go"]
+
+[[language]]
+name = "Graphviz (DOT)"
+file_extensions = ["dot", "DOT", "gv"]
+
+[[language]]
+name = "Groovy"
+file_extensions = ["groovy", "gvy", "gradle"]
+
+[[language]]
+name = "HTML"
+file_extensions = ["html", "htm", "shtml", "xhtml", "inc", "tmpl", "tpl"]
+
+[[language]]
+name = "HTML (ASP)"
+file_extensions = ["asp"]
+
+[[language]]
+name = "HTML (Erlang)"
+file_extensions = ["yaws"]
+
+[[language]]
+name = "HTML (Rails)"
+file_extensions = ["rails", "rhtml", "erb", "html.erb"]
+
+[[language]]
+name = "HTML (Tcl)"
+file_extensions = ["adp"]
+
+[[language]]
+name = "HTML Handlebars"
+file_extensions = ["handlebars", "handlebars.html", "hbs"]
+
+[[language]]
+name = "Haskell"
+file_extensions = ["hs"]
+
+[[language]]
+name = "JSON"
+file_extensions = ["json", "sublime-settings", "sublime-menu", "sublime-keymap", "sublime-mousemap", "sublime-theme", "sublime-build", "sublime-project", "sublime-completions", "sublime-commands", "sublime-macro", "sublime-color-scheme"]
+
+[[language]]
+name = "Java"
+file_extensions = ["java", "bsh"]
+
+[[language]]
+name = "Java Properties"
+file_extensions = ["properties"]
+
+[[language]]
+name = "Java Server Page (JSP)"
+file_extensions = ["jsp"]
+
+[[language]]
+name = "JavaDoc"
+file_extensions = []
+
+[[language]]
+name = "JavaScript"
+file_extensions = ["js", "htc"]
+
+[[language]]
+name = "JavaScript (Rails)"
+file_extensions = ["js.erb"]
+
+[[language]]
+name = "LaTeX"
+file_extensions = ["tex", "ltx"]
+
+[[language]]
+name = "LaTeX Log"
+file_extensions = []
+
+[[language]]
+name = "Lisp"
+file_extensions = ["lisp", "cl", "clisp", "l", "mud", "el", "scm", "ss", "lsp", "fasl"]
+
+[[language]]
+name = "Literate Haskell"
+file_extensions = ["lhs"]
+
+[[language]]
+name = "Lua"
+file_extensions = ["lua"]
+
+[[language]]
+name = "MATLAB"
+file_extensions = ["matlab"]
+
+[[language]]
+name = "Make Output"
+file_extensions = []
+
+[[language]]
+name = "Makefile"
+file_extensions = ["make", "GNUmakefile", "makefile", "Makefile", "OCamlMakefile", "mak", "mk"]
+
+[[language]]
+name = "Markdown"
+file_extensions = ["md", "mdown", "markdown", "markdn"]
+
+[[language]]
+name = "MultiMarkdown"
+file_extensions = []
+
+[[language]]
+name = "NAnt Build File"
+file_extensions = ["build"]
+
+[[language]]
+name = "OCaml"
+file_extensions = ["ml", "mli"]
+
+[[language]]
+name = "OCamllex"
+file_extensions = ["mll"]
+
+[[language]]
+name = "OCamlyacc"
+file_extensions = ["mly"]
+
+[[language]]
+name = "Objective-C"
+file_extensions = ["m", "h"]
+
+[[language]]
+name = "Objective-C++"
+file_extensions = ["mm", "M", "h"]
+
+[[language]]
+name = "PHP"
+file_extensions = ["php", "php3", "php4", "php5", "php7", "phps", "phpt", "phtml"]
+
+[[language]]
+name = "PHP Source"
+file_extensions = []
+
+[[language]]
+name = "Pascal"
+file_extensions = ["pas", "p", "dpr"]
+
+[[language]]
+name = "Perl"
+file_extensions = ["pl", "pm", "pod", "t", "PL"]
+
+[[language]]
+name = "Plain Text"
+file_extensions = ["txt"]
+
+[[language]]
+name = "Python"
+file_extensions = ["py", "py3", "pyw", "pyi", "pyx", "pyx.in", "pxd", "pxd.in", "pxi", "pxi.in", "rpy", "cpy", "SConstruct", "Sconstruct", "sconstruct", "SConscript", "gyp", "gypi", "Snakefile", "wscript"]
+
+[[language]]
+name = "R"
+file_extensions = ["R", "r", "s", "S", "Rprofile"]
+
+[[language]]
+name = "R Console"
+file_extensions = []
+
+[[language]]
+name = "Rd (R Documentation)"
+file_extensions = ["rd"]
+
+[[language]]
+name = "Regular Expression"
+file_extensions = ["re"]
+
+[[language]]
+name = "Regular Expressions (Javascript)"
+file_extensions = []
+
+[[language]]
+name = "Regular Expressions (Python)"
+file_extensions = []
+
+[[language]]
+name = "Ruby"
+file_extensions = ["rb", "Appfile", "Appraisals", "Berksfile", "Brewfile", "capfile", "cgi", "Cheffile", "config.ru", "Deliverfile", "Fastfile", "fcgi", "Gemfile", "gemspec", "Guardfile", "irbrc", "jbuilder", "podspec", "prawn", "rabl", "rake", "Rakefile", "Rantfile", "rbx", "rjs", "ruby.rail", "Scanfile", "simplecov", "Snapfile", "thor", "Thorfile", "Vagrantfile"]
+
+[[language]]
+name = "Ruby Haml"
+file_extensions = ["haml", "sass"]
+
+[[language]]
+name = "Ruby on Rails"
+file_extensions = ["rxml", "builder"]
+
+[[language]]
+name = "Rust"
+file_extensions = ["rs"]
+
+[[language]]
+name = "SQL"
+file_extensions = ["sql", "ddl", "dml"]
+
+[[language]]
+name = "SQL (Rails)"
+file_extensions = ["erbsql", "sql.erb"]
+
+[[language]]
+name = "Scala"
+file_extensions = ["scala", "sbt"]
+
+[[language]]
+name = "Shell-Unix-Generic"
+file_extensions = []
+
+[[language]]
+name = "TOML"
+file_extensions = ["toml", "tml", "Cargo.lock", "Gopkg.lock", "Pipfile"]
+
+[[language]]
+name = "Tcl"
+file_extensions = ["tcl"]
+
+[[language]]
+name = "TeX"
+file_extensions = ["sty", "cls"]
+
+[[language]]
+name = "Textile"
+file_extensions = ["textile"]
+
+[[language]]
+name = "XML"
+file_extensions = ["xml", "xsd", "xslt", "tld", "dtml", "rss", "opml", "svg"]
+
+[[language]]
+name = "YAML"
+file_extensions = ["yaml", "yml", "sublime-syntax"]
+
+[[language]]
+name = "camlp4"
+file_extensions = []
+
+[[language]]
+name = "commands-builtin-shell-bash"
+file_extensions = []
+
+[[language]]
+name = "reStructuredText"
+file_extensions = ["rst", "rest"]
